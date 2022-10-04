@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="1" lineNum="17" parent="globals/Watchface12View" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="1" lineNum="18" parent="globals/Watchface12View" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="2" lineNum="22" parent="globals/Watchface12View" pc="268435479" symbol="onLayout"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="2" lineNum="24" parent="globals/Watchface12View" pc="268435483" symbol="onLayout"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="2" lineNum="25" parent="globals/Watchface12View" pc="268435526" symbol="onLayout"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="2" lineNum="26" parent="globals/Watchface12View" pc="268435569" symbol="onLayout"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="2" lineNum="28" parent="globals/Watchface12View" pc="268435612" symbol="onLayout"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="3" lineNum="34" parent="globals/Watchface12View" pc="268435650" symbol="onShow"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="38" parent="globals/Watchface12View" pc="268435655" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="41" parent="globals/Watchface12View" pc="268435659" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="44" parent="globals/Watchface12View" pc="268435671" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="46" parent="globals/Watchface12View" pc="268435688" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="47" parent="globals/Watchface12View" pc="268435703" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="48" parent="globals/Watchface12View" pc="268435716" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="49" parent="globals/Watchface12View" pc="268435729" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="54" parent="globals/Watchface12View" pc="268435753" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="55" parent="globals/Watchface12View" pc="268435790" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="57" parent="globals/Watchface12View" pc="268435813" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="58" parent="globals/Watchface12View" pc="268435850" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="60" parent="globals/Watchface12View" pc="268435873" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="61" parent="globals/Watchface12View" pc="268435910" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="63" parent="globals/Watchface12View" pc="268435933" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="64" parent="globals/Watchface12View" pc="268435970" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="70" parent="globals/Watchface12View" pc="268435993" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="71" parent="globals/Watchface12View" pc="268436025" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="73" parent="globals/Watchface12View" pc="268436081" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="75" parent="globals/Watchface12View" pc="268436137" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="4" lineNum="77" parent="globals/Watchface12View" pc="268436193" symbol="onUpdate"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="5" lineNum="9" parent="globals/Watchface12View" pc="268437152" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="5" lineNum="9" parent="globals/Watchface12View" pc="268437152" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="6" lineNum="90" parent="globals" pc="268436222" symbol="onHide"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="7" lineNum="94" parent="globals" pc="268436235" symbol="onExitSleep"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="8" lineNum="98" parent="globals" pc="268436248" symbol="onEnterSleep"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="8" lineNum="99" parent="globals" pc="268436260" symbol="onEnterSleep"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="9" lineNum="103" parent="globals" pc="268436277" symbol="timeFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="9" lineNum="105" parent="globals" pc="268436289" symbol="timeFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="9" lineNum="107" parent="globals" pc="268436292" symbol="timeFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="9" lineNum="108" parent="globals" pc="268436316" symbol="timeFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="9" lineNum="112" parent="globals" pc="268436379" symbol="timeFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="9" lineNum="113" parent="globals" pc="268436407" symbol="timeFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="9" lineNum="114" parent="globals" pc="268436431" symbol="timeFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="9" lineNum="118" parent="globals" pc="268436479" symbol="timeFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="10" lineNum="123" parent="globals" pc="268436483" symbol="dateFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="10" lineNum="124" parent="globals" pc="268436495" symbol="dateFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="10" lineNum="125" parent="globals" pc="268436539" symbol="dateFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="10" lineNum="128" parent="globals" pc="268436615" symbol="dateFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="11" lineNum="133" parent="globals" pc="268436619" symbol="battFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="11" lineNum="135" parent="globals" pc="268436631" symbol="battFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="11" lineNum="136" parent="globals" pc="268436648" symbol="battFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="11" lineNum="137" parent="globals" pc="268436658" symbol="battFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="11" lineNum="139" parent="globals" pc="268436665" symbol="battFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="11" lineNum="141" parent="globals" pc="268436676" symbol="battFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="11" lineNum="145" parent="globals" pc="268436731" symbol="battFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12View.mc" id="11" lineNum="151" parent="globals" pc="268436783" symbol="battFunc"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12App.mc" id="13" lineNum="10" parent="globals/Watchface12App" pc="268436787" symbol="initialize"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12App.mc" id="13" lineNum="11" parent="globals/Watchface12App" pc="268436791" symbol="initialize"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12App.mc" id="14" lineNum="15" parent="globals/Watchface12App" pc="268436810" symbol="onStart"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12App.mc" id="15" lineNum="19" parent="globals/Watchface12App" pc="268436815" symbol="onStop"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12App.mc" id="16" lineNum="23" parent="globals/Watchface12App" pc="268436820" symbol="getInitialView"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12App.mc" id="16" lineNum="24" parent="globals/Watchface12App" pc="268436824" symbol="getInitialView"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12App.mc" id="17" lineNum="8" parent="globals/Watchface12App" pc="268437103" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12App.mc" id="17" lineNum="8" parent="globals/Watchface12App" pc="268437103" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12App.mc" id="18" lineNum="29" parent="globals" pc="268436862" symbol="getApp"/>
+        <entry filename="/Users/nickrobillard/eclipse-workspace/Watchface1.2/source/Watchface12App.mc" id="18" lineNum="30" parent="globals" pc="268436874" symbol="getApp"/>
+        <entry filename="Rez" id="20" lineNum="2" parent="globals/Rez/Drawables" pc="268437146" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="21" lineNum="6" parent="globals/Rez/Fonts" pc="268437148" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="12" parent="globals/Rez/JsonData" pc="268437150" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="23" lineNum="21" parent="globals/Rez/Layouts" pc="268436891" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="24" parent="globals/Rez/Layouts" pc="268436903" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="26" parent="globals/Rez/Layouts" pc="268437084" symbol="WatchFace"/>
+        <entry filename="Rez" id="24" lineNum="14" parent="globals/Rez/Layouts" pc="268437149" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="31" parent="globals/Rez/Menus" pc="268437147" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="26" lineNum="33" parent="globals/Rez/Strings" pc="268437151" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="1" parent="globals/Rez" pc="268437122" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="1" parent="globals/Rez" pc="268437122" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="20" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="13" object="true" symbol="Watchface12App"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="15" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="22" symbol="timeFont"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="10" method="true" symbol="timeFunc"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="16" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="19" symbol="customFont3"/>
+        <entry field="true" id="18" symbol="customFont2"/>
+        <entry field="true" id="17" symbol="customFont1"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="23" symbol="dateFont"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="9" object="true" symbol="Watchface12View"/>
+        <entry field="true" id="8389347" symbol="color"/>
+        <entry id="11" method="true" symbol="dateFunc"/>
+        <entry id="14" module="true" symbol="Layouts"/>
+        <entry field="true" id="21" symbol="battFont"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="12" method="true" symbol="battFunc"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435649" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268436220" name="batStr" stackId="4" startPc="268435659"/>
+        <entry endPc="268436220" name="view" stackId="6" startPc="268435659"/>
+        <entry endPc="268436220" name="dateStr" stackId="5" startPc="268435659"/>
+        <entry endPc="268436220" name="clockTime" stackId="2" startPc="268435659"/>
+        <entry endPc="268436220" name="timeStr" stackId="3" startPc="268435659"/>
+        <entry arg="true" endPc="268436221" name="dc" stackId="1" startPc="268435655"/>
+        <entry endPc="268436478" name="hour" stackId="3" startPc="268436379"/>
+        <entry endPc="268436478" name="min" stackId="4" startPc="268436379"/>
+        <entry endPc="268436481" name="timeString" stackId="2" startPc="268436289"/>
+        <entry arg="true" endPc="268436482" name="clockTime" stackId="1" startPc="268436277"/>
+        <entry endPc="268436617" name="today" stackId="1" startPc="268436495"/>
+        <entry endPc="268436617" name="dateString" stackId="2" startPc="268436495"/>
+        <entry endPc="268436785" name="batStr" stackId="3" startPc="268436631"/>
+        <entry endPc="268436785" name="stats" stackId="1" startPc="268436631"/>
+        <entry endPc="268436785" name="pwr" stackId="2" startPc="268436631"/>
+        <entry arg="true" endPc="268436814" name="state" stackId="1" startPc="268436810"/>
+        <entry arg="true" endPc="268436819" name="state" stackId="1" startPc="268436815"/>
+        <entry endPc="268437100" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268436903"/>
+        <entry arg="true" endPc="268437101" name="dc" stackId="1" startPc="268436891"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="customFont1"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="customFont2"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="customFont3"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Watchface12App" offset="206" parentId="globals" symbolId="Watchface12App" type="class"/>
+        <dataEntry label="globals/Rez" offset="277" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="356" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="395" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="426" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="481" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="520" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="551" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Watchface12View" offset="590" parentId="globals" symbolId="Watchface12View" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="Watchface12View" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435649" name="onLayout" parent="Watchface12View" startPc="268435479">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435654" name="onShow" parent="Watchface12View" startPc="268435650">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436221" name="onUpdate" parent="Watchface12View" startPc="268435655">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437170" name="&lt;init&gt;" parent="Watchface12View" startPc="268437152">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436234" name="onHide" startPc="268436222">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436247" name="onExitSleep" startPc="268436235">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436276" name="onEnterSleep" startPc="268436248">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436482" name="timeFunc" startPc="268436277">
+            <param id="clockTime"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436618" name="dateFunc" startPc="268436483">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436786" name="battFunc" startPc="268436619">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436809" name="initialize" parent="Watchface12App" startPc="268436787">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436814" name="onStart" parent="Watchface12App" startPc="268436810">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436819" name="onStop" parent="Watchface12App" startPc="268436815">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436861" name="getInitialView" parent="Watchface12App" startPc="268436820">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437121" name="&lt;init&gt;" parent="Watchface12App" startPc="268437103">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436890" name="getApp" startPc="268436862">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437146" name="&lt;init&gt;" parent="Drawables" startPc="268437146">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437148" name="&lt;init&gt;" parent="Fonts" startPc="268437148">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437150" name="&lt;init&gt;" parent="JsonData" startPc="268437150">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437101" name="WatchFace" parent="Layouts" startPc="268436891">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437149" name="&lt;init&gt;" parent="Layouts" startPc="268437149">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437147" name="&lt;init&gt;" parent="Menus" startPc="268437147">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437151" name="&lt;init&gt;" parent="Strings" startPc="268437151">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437145" name="&lt;init&gt;" parent="Rez" startPc="268437122">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

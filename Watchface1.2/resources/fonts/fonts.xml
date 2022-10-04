@@ -1,0 +1,6 @@
+<fonts>	
+	<font id="customFont1" filename="font.fnt" filter="0123456789:%."/>
+	<font id="customFont2" filename="minecraft2.fnt" filter="0123456789:%"/>
+	<font id="customFont3" filename="date.fnt" filter="0123456789:%/AugSepOctNovDecJanFebMarAprMayJunJul"/>
+
+</fonts>
